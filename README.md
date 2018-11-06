@@ -1,6 +1,8 @@
 ## league-time-tracker
 Exports your League of Legends Match History time data.
 Upload to Google Calendar or something similar for visualizations.
+
+![Example Google Calendar visualization](https://raw.githubusercontent.com/devbridie/league-time-tracker/master/example.png)
  
 ### Usage
 1. Get an API key from [Riot's Developer Dashboard](https://developer.riotgames.com/).
