@@ -1,0 +1,6 @@
+.gradle
+out
+build
+.idea
+
+src/main/kotlin/com/devbridie/leaguetimetracker/Configuration.kt

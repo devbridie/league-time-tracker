@@ -1,0 +1,2 @@
+*/10 * * * * cd /app && ./gradlew run --console=plain
+
